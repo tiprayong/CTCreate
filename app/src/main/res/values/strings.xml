@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CTCreate</string>
+    <string name="hint_edittext">Critical Thinking</string>
+    <string name="save_button_label">save</string>
+    <string name="archive_button_label">archive</string>
+    <string name="create_button_label">create</string>
+</resources>
